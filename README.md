@@ -2,7 +2,7 @@
 Pipeline to assemble and annotation honey bee mitochondrial genomes from pool seq data  
 
 ## First step  
-Run ``submit_config_creator.sh``` to create unique config files for each of our samples  
+Run ```submit_config_creator.sh``` to create unique config files for each of our samples  
 
 ## Second step
 Extract seed sequences for NOVOplasty using ```seed_extraction.py```  
