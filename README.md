@@ -17,5 +17,4 @@ I applied a length criteria of 14kbp and I required it to be continuous, you may
 We now reorder the assembly and annotate it using MitoZ with the ```mitoz_annotate.sh``` script  
 
 
-You should now have assembled and annotated genomes. This was not successful for every sample, most actually failed but 100+  
-MT genomes were assembled and annotated successfully
+You should now have assembled and annotated genomes. This was not successful for every sample, most actually failed but 100+ MT genomes were assembled and annotated successfully
