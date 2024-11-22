@@ -4,6 +4,8 @@ Pipeline to assemble and annotate honey bee mitochondrial genomes from pool seq 
 ## First step  
 Run ```submit_config_creator.sh``` to create unique config files for each of our samples  
 
+[EDIT: I believe novoplasty has since added a way to do this]
+
 ## Second step
 Extract seed sequences for NOVOplasty using ```seed_extraction.py```  
 This script extracts a random 150bp seed from the reads that aligned to the reference MT  
