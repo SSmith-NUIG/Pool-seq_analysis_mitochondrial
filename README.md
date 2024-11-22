@@ -1,5 +1,5 @@
 # Pool-seq_analysis_mitochondrial  
-Pipeline to assemble and annotation honey bee mitochondrial genomes from pool seq data  
+Pipeline to assemble and annotate honey bee mitochondrial genomes from pool seq data  
 
 ## First step  
 Run ```submit_config_creator.sh``` to create unique config files for each of our samples  
