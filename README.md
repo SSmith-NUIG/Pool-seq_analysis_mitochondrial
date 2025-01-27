@@ -7,8 +7,8 @@ Run ```submit_config_creator.sh``` to create unique config files for each of our
 [EDIT: I believe novoplasty has since added a way to do this]
 
 ## Second step
-Extract seed sequences for NOVOplasty using ```seed_extraction.py```  
-This script extracts a random 150bp seed from the reads that aligned to the reference MT  
+Extract seed sequences for NOVOplasty using ```seed_extraction.sh```  
+This script runes ```novo_seed_extraction.py``` which extracts a random 150bp seed from the reads that aligned to the reference MT  
 
 ## Third step  
 Run ```novoplasty.sh``` which uses the NOVOplasty software to assemble the honey bees mitochondrial genome  
